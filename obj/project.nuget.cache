@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hc/FsFH1QRX5Y1T40bS56uAkSqyXzmHQRgtf5ycZBhrTsO1YEKRg2uWSxkFKkilA8pVfqCaLI9bCeW/MtCiTcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodrigo\\Desktop\\Roderick\\WESTWORLD\\POO\\NEW\\Clase1POO2023\\Clase1POO2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
